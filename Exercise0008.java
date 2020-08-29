@@ -8,11 +8,8 @@ public class Exercise0008 {
 		for(int i = 0;i < lado;i++){
 			for(int j = 0;j < lado;j++){
 				System.out.print("*");
-				}
+					}
 			System.out.println();
-			if(i == lado){
-				break;
 			}
 		}
 	}
-}
